@@ -23,3 +23,6 @@ https://doritus.mmrcoss.tech/
 
 # SPEAK
 https://speakify.cupiditys.lol/
+
+# LEIASP
+https://letitsleia.mmrcoss.tech/
