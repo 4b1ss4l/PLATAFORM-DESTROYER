@@ -13,7 +13,7 @@ https://kahootdestroyer.squareweb.app/acess_blocked
 
 # Quizizz
 
-...
+https://quizzizdestroyer.squareweb.app/acess_blocked
 
 # MATIFIC
 https://matific.cupiditys.lol
