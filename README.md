@@ -1,3 +1,6 @@
+# Servidor do Discord
+https://discord.gg/SXR6sVRm
+
 # REPOSITÓRIO 
 https://www.platformdestroyer.me/
 
