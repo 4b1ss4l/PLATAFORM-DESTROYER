@@ -23,7 +23,7 @@ https://doritus.mmrcoss.tech/
 
 # REDAÇÃO PAULISTA
 * V1: https://github.com/marcos10pc/dont-f--with-paste-bookmark/tree/main
-* V2:
+* V2: https://github.com/marcos10pc/Cheeto-Essay-Maker/blob/main/bookmark.js
 
 # SPEAK
 https://speakify.cupiditys.lol/
