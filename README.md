@@ -8,11 +8,11 @@ https://www.platformdestroyer.me/
 * TamperMonkey
 * https://www.tampermonkey.net/
 * https://github.com/marcos10pc/Alura-Destroyer/blob/main/script.js
+  
 # Kahoot
 https://kahootdestroyer.squareweb.app/acess_blocked
 
 # Quizizz
-
 https://quizzizdestroyer.squareweb.app/acess_blocked
 
 # MATIFIC
@@ -22,8 +22,8 @@ https://matific.cupiditys.lol
 https://doritus.mmrcoss.tech/
 
 # REDAÇÃO PAULISTA
-V1: https://github.com/marcos10pc/dont-f--with-paste-bookmark/tree/main
-V2: 
+* V1: https://github.com/marcos10pc/dont-f--with-paste-bookmark/tree/main
+* V2:
 
 # SPEAK
 https://speakify.cupiditys.lol/
