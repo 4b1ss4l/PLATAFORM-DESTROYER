@@ -21,6 +21,10 @@ https://matific.cupiditys.lol
 # SALA DO FUTURO
 https://doritus.mmrcoss.tech/
 
+# REDAÇÃO PAULISTA
+V1: https://github.com/marcos10pc/dont-f--with-paste-bookmark/tree/main
+V2: 
+
 # SPEAK
 https://speakify.cupiditys.lol/
 
