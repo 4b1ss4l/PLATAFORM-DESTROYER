@@ -1,3 +1,4 @@
+# Descontinuado
 # Servidor do Discord
 https://discord.gg/SXR6sVRm
 
